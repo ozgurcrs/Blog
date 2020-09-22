@@ -1,0 +1,21 @@
+{
+  "name": "personalBlog",
+  "version": "1.0.0",
+  "description": "My epic Nuxt.js project",
+  "author": "Özgür Çiriş",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/device": "^1.2.7",
+    "animate.css": "^4.1.1",
+    "nuxt": "^2.0.0",
+    "nuxt-user-agent": "^1.2.2"
+  },
+  "devDependencies": {}
+}
